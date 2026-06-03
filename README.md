@@ -61,3 +61,4 @@ pixova-updated/
 - ✅ Floating shapes updated to red/maroon tones matching brand
 - ✅ Full site: Nav · Hero · Services · Portfolio (with filter) · Video Reel · About · Contact · Footer
 "# pixova-" 
+"# pixova-portfolio-" 
